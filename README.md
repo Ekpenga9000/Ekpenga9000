@@ -1,3 +1,4 @@
+<!--![MasterHaed](https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47zi2ey6xx5hi6obdmqjx5x323lf819svryidkmcsp&ep=v1_gifs_related&rid=giphy.gif&ct=g) -->
 <!--
 **Ekpenga9000/Ekpenga9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Louis Omogbare Ekpenga</h1>
-<h3 align="center">A passionate full stack developer based in Alberta.</h3>
+<h3 align="center">A passionate full stack developer and Certified Scrum Master based in Alberta.</h3>
+<p align="center"> I'm an enthusiastic full-stack engineer. From the front-end symphonies that make your eyes dance to the back-end wizardry that orchestrates the data ballet – I thrive on building seamless web experiences. React, Node.js, Express, MySQL – you name it, I've conjured with it! 👨‍💻 🛠️ ✨</p>
+<hr/>
+<br/>
+<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p3lykc88zi343hcx8s5mmhusyyqo13o2l4un70ef&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Software developer coding and enjoying music" width="400"/>
 
 - 🔭 I’m currently working on [Kubi-software](https://kubi-software.netlify.app/)
 
@@ -29,7 +34,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://omogbare-louis-ekpenga.netlify.app/](https://omogbare-louis-ekpenga.netlify.app/)
 
-- ⚡ Fun fact **I'm a good conversationist and a lover of a good anime.**
+- ⚡ Fun fact **I'm a good conversationist and a lover of good anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
