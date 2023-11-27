@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://omogbare-louis-ekpenga.netlify.app/](https://omogbare-louis-ekpenga.netlify.app/)
 
-- 📝 I regularly write articles on [https://omogbare-louis-ekpenga.netlify.app/](https://omogbare-louis-ekpenga.netlify.app/)
+<!-- - 📝 I regularly write articles on [https://omogbare-louis-ekpenga.netlify.app/](https://omogbare-louis-ekpenga.netlify.app/) -->
 
 - 💬 Ask me about **React, Node, Express**
 
