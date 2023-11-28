@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Louis Omogbare Ekpenga</h1>
+<h1 align="center">Hi <img height="36" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hand waving">, I'm Louis Omogbare Ekpenga</h1>
 <h3 align="center">A passionate full stack developer and Certified Scrum Master based in Alberta.</h3>
 <p align="center"> I'm an enthusiastic full-stack engineer. From the front-end symphonies that make your eyes dance to the back-end wizardry that orchestrates the data ballet – I thrive on building seamless web experiences. React, Node.js, Express, MySQL – you name it, I've conjured with it! 👨‍💻 🛠️ ✨</p>
 <hr/>
