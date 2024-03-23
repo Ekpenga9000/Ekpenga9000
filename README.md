@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Kubi-software](https://kubi-software.netlify.app/)
 
-- 🌱 I’m currently learning **Building micro services with Docker and Kubernetes**
+- 🌱 I’m currently learning **Building microservices with Docker and Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://omogbare-louis-ekpenga.netlify.app/](https://omogbare-louis-ekpenga.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://omogbareekpenga.com/](https://omogbareekpenga.com/)
 
 <!-- - 📝 I regularly write articles on [https://omogbare-louis-ekpenga.netlify.app/](https://omogbare-louis-ekpenga.netlify.app/) -->
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ekpenga9000@gmail.com**
 
-- 📄 Know about my experiences [https://omogbare-louis-ekpenga.netlify.app/](https://omogbare-louis-ekpenga.netlify.app/)
+- 📄 Know about my experiences [https://omogbareekpenga.com/](https://omogbareekpenga.com/)
 
 - ⚡ Fun fact **I'm a good conversationist and a lover of good anime.**
 
