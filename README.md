@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <br/>
 <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p3lykc88zi343hcx8s5mmhusyyqo13o2l4un70ef&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Software developer coding and enjoying music" width="400"/>
 
-- 🔭 I’m currently working on [Kubi-software](https://kubi-software.netlify.app/)
+- 🔭 I’m currently working on completing my Master's Degree in Computer Science
 
-- 🌱 I’m currently learning **Building microservices with Docker and Kubernetes**
+- 🌱 I’m currently learning **Advanced Algorithms and Data Structures, Machine Learning & Artificial Intelligence, Software Engineering & System Design, Databases & Big Data, Computer Networks & Security, Operating Systems & Parallel Computing, Research Methods**
 
 - 👨‍💻 All of my projects are available at [https://omogbareekpenga.com/](https://omogbareekpenga.com/)
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://omogbareekpenga.com/](https://omogbareekpenga.com/)
 
-- ⚡ Fun fact **I'm a good conversationist and a lover of good anime.**
+- ⚡ Fun fact **I love a good read and I'm a sucker for languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
