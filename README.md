@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi <img height="36" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hand waving">, I'm Louis Omogbare Ekpenga</h1>
-<h3 align="center">A passionate full stack developer and Certified Scrum Master based in Alberta.</h3>
+<h3 align="center">A passionate full stack developer and Certified Scrum Master based in Vancouver.</h3>
 <p align="center"> I'm an enthusiastic full-stack engineer. From the front-end symphonies that make your eyes dance to the back-end wizardry that orchestrates the data ballet – I thrive on building seamless web experiences. React, Node.js, Express, MySQL – you name it, I've conjured with it! 👨‍💻 🛠️ ✨</p>
 <hr/>
 <br/>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!-- - 📝 I regularly write articles on [https://omogbare-louis-ekpenga.netlify.app/](https://omogbare-louis-ekpenga.netlify.app/) -->
 
-- 💬 Ask me about **React, Node, Express**
+- 💬 Ask me about **Python, React, Node, Express**
 
 - 📫 How to reach me **ekpenga9000@gmail.com**
 
